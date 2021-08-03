@@ -1,4 +1,9 @@
-### Hi there 👋
+### bb1950328
+
+![](https://github-readme-stats.vercel.app/api?username=bb1950328&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bb1950328&theme=dark&exclude_repo=lsorter&langs_count=8&layout=compact)
+
 
 <!--
 **bb1950328/bb1950328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
